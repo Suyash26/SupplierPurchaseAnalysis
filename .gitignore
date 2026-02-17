@@ -1,0 +1,25 @@
+# Ignore data folders
+Data/
+data/
+
+# Ignore output folders
+output/
+outputs/
+reports/
+*.csv
+*.xlsx
+*.xls
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+venv/
+.env
+
+# Mac system files
+.DS_Store
